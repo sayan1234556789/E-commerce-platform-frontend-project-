@@ -43,7 +43,7 @@ E-commerce-Website/
 
 Clone the repository:
 
-git clone https://github.com/your-username/ecommerce-website.git
+git clone https://github.com/sayan1234556789/ecommerce-website.git
 
 
 Open index.html in your browser.
